@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518748950187",
+    "project_id": "findinghotel",
+    "storage_bucket": "findinghotel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518748950187:android:02dfe3221182c6f846b1ee",
+        "android_client_info": {
+          "package_name": "com.example.findinghotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518748950187-48si8o6isl93qdr410mqudqne5fbba3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvP0ZCLOtIN2OSwT0ceUobJInIRUjQds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518748950187-48si8o6isl93qdr410mqudqne5fbba3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
